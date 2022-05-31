@@ -25,6 +25,8 @@ COPY ./entrypoint.sh /root/ursim
 COPY ./stopurcontrol.sh /root/ursim
 WORKDIR /root/ursim
 
+RUN chmod u+x ./*.sh
+
 # Install included dependencies
 RUN dpkg -i ursim-dependencies/*amd64.deb
 

@@ -55,7 +55,7 @@ A docker container for URSim that uses noVNC for GUI interaction.
    ```
 5. Run the image
    ```sh
-    docker run -it -p 5900:5900 -p 29999:29999 -p 30001-30004:30001-30004 -p 8080:8080 czagrzebski/ursimdock    
+    docker run -it -p 5900:5900 -p 29999:29999 -p 30001-30004:30001-30004 -p 8080:8080 czagrzebski/ursimdocker   
    ```
 6. Open the web interface using the provided URL
 
