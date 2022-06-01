@@ -21,7 +21,7 @@ A docker image for URSim that uses x11vnc, xvfb, and noVNC.  The image provides 
 
 This is an alternative to the VMWare Image provided by Universal Robots.
 
-![alt text](https://github.com/czagrzebski/ursimdocker/tree/main/demo.gif)
+![Alt text](demo/demo.gif?raw=true "Title")
 
 
 <!-- GETTING STARTED -->
