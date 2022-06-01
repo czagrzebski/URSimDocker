@@ -17,15 +17,15 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+A docker image for URSim that uses x11vnc, xvfb, and noVNC.  The image provides a VNC server for connecting to the polyscope interface is accessible via a web browser.
 
+This is an alternative to the VMWare Image provided by Universal Robots.
 
-A docker container for URSim that uses noVNC for GUI interaction. Easy to use environment. 
+![alt text](https://github.com/czagrzebski/ursimdocker/tree/main/demo.gif)
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
-
 
 ### Prerequisites
 
