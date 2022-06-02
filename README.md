@@ -1,5 +1,3 @@
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -13,16 +11,14 @@
 
 </div>
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 A docker image for URSim that uses x11vnc, xvfb, and noVNC.  The image provides a web based VNC server for connecting to the polyscope interface via a browser.
 
-This is an alternative to the VMWare Image provided by Universal Robots.
+This is an alternative to the VMWare/VBox Image provided by Universal Robots.
 
 ![Alt text](demo/demo.gif?raw=true "Title")
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -32,7 +28,6 @@ This is an alternative to the VMWare Image provided by Universal Robots.
 [Docker]((https://docs.docker.com/get-docker/)) is required to run this simulator 
 
 ### Installation
-
 
 1. Clone the repo
    ```sh

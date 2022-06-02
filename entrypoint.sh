@@ -4,7 +4,7 @@
 echo "Universal Robots Simulator with Docker"
 
 # start the x server 
-Xvfb :0 -screen 0 1920x1080x24 &> /dev/null &
+Xvfb :0 -screen 0 1280x800x24 &> /dev/null &
 
 # wait a few seconds for server to initialize
 sleep 3

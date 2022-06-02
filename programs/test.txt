@@ -1,3 +1,0 @@
- Program
-   Robot Program
-     <empty>
