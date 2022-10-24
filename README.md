@@ -20,6 +20,8 @@ This is an alternative to the VMWare/VBox Image provided by Universal Robots.
 
 ![Alt text](demo/demo.gif?raw=true "Title")
 
+**This repository is not associated with Universal Robots**
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
