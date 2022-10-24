@@ -56,8 +56,7 @@ This is an alternative to the VMWare/VBox Image provided by Universal Robots.
    ```
 7. Open the web interface using the provided URL
 
-
-
+**Note: You will need to create a docker volume for persistent storage of robot programs**
 
 
 
